@@ -1,0 +1,25 @@
+header{
+  background-image: url(картинки/фон.jpg);
+  background-size: 100% 240%;
+}
+.quote{
+    background-image: url(картинки/сердце.png);
+    background-size: 100%;
+    font-size: 15px;
+}
+.accent{
+    color: rgb(168, 73, 89);
+}
+ol li{
+    margin: 10px;
+}
+.day{
+    background-color: #f9c6cf;
+    padding-left: 15px;
+}
+.day h2{
+    color: rgb(236, 111, 194);
+}
+.page-footer{
+    background-color: #CD5C5C;
+}
